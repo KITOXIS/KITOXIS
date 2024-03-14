@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm kitoxis! I have learned SkriptLang(Not fully, but I can write and I have writen some scripts) and I am going to be learning Java soon!
+- I'm currently working on:
+  Starfal Development
+  Shock Legends
 
 <!--
 **KITOXIS/KITOXIS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
